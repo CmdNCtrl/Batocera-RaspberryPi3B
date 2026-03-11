@@ -14,9 +14,7 @@ target_devices:
       "key:leftalt":   "btn:north"
       "key:space":     "btn:tl"
       "key:x":         "btn:tr"
-      "key:c":         "btn:start"
       "key:1":         "btn:start"
-      "key:v":         "btn:select"
       "key:5":         "btn:select"
   - name: Xtension 2P Player 2
     type: joystick
