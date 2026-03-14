@@ -31,9 +31,9 @@ target_devices:
       "key:s": "btn:north"
       "key:q": "btn:tl"
       "key:k": "btn:tr"
-      "key:j": "btn:start"
+      "key:j": "btn:tl2"
       "key:2": "btn:start"
-      "key:l": "btn:select"
+      "key:l": "btn:tr2"
       "key:6": "btn:select"
   - name: Xtension hotkeys
     type: hotkeys
